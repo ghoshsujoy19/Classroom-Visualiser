@@ -1,0 +1,38 @@
+{
+    "logs": [
+        {
+            "outputFile": "/home/sujoy/AndroidStudioProjects/face-detection/openCVSamplefacedetection/build/intermediates/incremental/mergeDebugResources/merged.dir/values-land/values-land.xml",
+            "map": [
+                {
+                    "source": "/home/sujoy/.gradle/caches/transforms-1/files-1.1/design-26.0.0-beta1.aar/9a8dce12d414802f96dbf49335293d71/res/values-land/values-land.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "5",
+                        "endColumns": "12",
+                        "endOffsets": "232"
+                    },
+                    "to": {
+                        "startLines": "6",
+                        "startColumns": "4",
+                        "startOffsets": "328",
+                        "endLines": "9",
+                        "endColumns": "12",
+                        "endOffsets": "505"
+                    }
+                },
+                {
+                    "source": "/home/sujoy/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.0.0-beta1.aar/e2388f3d27616b0c03d701c30faa981f/res/values-land/values-land.xml",
+                    "from": {
+                        "startLines": "2,3,4,5",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "55,125,189,260",
+                        "endColumns": "69,63,70,67",
+                        "endOffsets": "120,184,255,323"
+                    }
+                }
+            ]
+        }
+    ]
+}

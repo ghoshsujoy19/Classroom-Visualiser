@@ -1,0 +1,33 @@
+{
+  "buildFiles": [
+    "/home/sujoy/AndroidStudioProjects/face-detection/openCVSamplefacedetection/src/main/jni/Android.mk",
+    "/home/sujoy/AndroidStudioProjects/face-detection/openCVSamplefacedetection/src/main/jni/Application.mk"
+  ],
+  "cleanCommands": [
+    "/home/sujoy/Android/Sdk/ndk-bundle/ndk-build NDK_PROJECT_PATH\u003dnull APP_BUILD_SCRIPT\u003d/home/sujoy/AndroidStudioProjects/face-detection/openCVSamplefacedetection/src/main/jni/Android.mk NDK_APPLICATION_MK\u003d/home/sujoy/AndroidStudioProjects/face-detection/openCVSamplefacedetection/src/main/jni/Application.mk APP_ABI\u003dx86 NDK_ALL_ABIS\u003dx86 NDK_DEBUG\u003d0 APP_PLATFORM\u003dandroid-23 NDK_OUT\u003d/home/sujoy/AndroidStudioProjects/face-detection/openCVSamplefacedetection/build/intermediates/ndkBuild/release/obj NDK_LIBS_OUT\u003d/home/sujoy/AndroidStudioProjects/face-detection/openCVSamplefacedetection/build/intermediates/ndkBuild/release/lib clean"
+  ],
+  "libraries": {
+    "detection_based_tracker-release-x86": {
+      "buildCommand": "/home/sujoy/Android/Sdk/ndk-bundle/ndk-build NDK_PROJECT_PATH\u003dnull APP_BUILD_SCRIPT\u003d/home/sujoy/AndroidStudioProjects/face-detection/openCVSamplefacedetection/src/main/jni/Android.mk NDK_APPLICATION_MK\u003d/home/sujoy/AndroidStudioProjects/face-detection/openCVSamplefacedetection/src/main/jni/Application.mk APP_ABI\u003dx86 NDK_ALL_ABIS\u003dx86 NDK_DEBUG\u003d0 APP_PLATFORM\u003dandroid-23 NDK_OUT\u003d/home/sujoy/AndroidStudioProjects/face-detection/openCVSamplefacedetection/build/intermediates/ndkBuild/release/obj NDK_LIBS_OUT\u003d/home/sujoy/AndroidStudioProjects/face-detection/openCVSamplefacedetection/build/intermediates/ndkBuild/release/lib /home/sujoy/AndroidStudioProjects/face-detection/openCVSamplefacedetection/build/intermediates/ndkBuild/release/obj/local/x86/libdetection_based_tracker.so",
+      "toolchain": "toolchain-x86",
+      "abi": "x86",
+      "artifactName": "detection_based_tracker",
+      "files": [
+        {
+          "src": "/home/sujoy/AndroidStudioProjects/face-detection/openCVSamplefacedetection/src/main/jni/DetectionBasedTracker_jni.cpp",
+          "flags": "\"-gcc-toolchain\" \"/home/sujoy/Android/Sdk/ndk-bundle/toolchains/x86-4.9/prebuilt/linux-x86_64\" \"-target\" \"i686-none-linux-android\" \"-ffunction-sections\" \"-funwind-tables\" \"-fstack-protector-strong\" \"-fPIC\" \"-Wno-invalid-command-line-argument\" \"-Wno-unused-command-line-argument\" \"-no-canonical-prefixes\" \"-g\" \"-fno-exceptions\" \"-fno-rtti\" \"-O2\" \"-DNDEBUG\" \"-I/home/sujoy/opencvf/opencv3-android-sdk-with-contrib-master/OpenCV-android-sdk/sdk/native/jni/include/opencv\" \"-I/home/sujoy/opencvf/opencv3-android-sdk-with-contrib-master/OpenCV-android-sdk/sdk/native/jni/include\" \"-I/home/sujoy/AndroidStudioProjects/face-detection/openCVSamplefacedetection/src/main/jni\" \"-I/home/sujoy/Android/Sdk/ndk-bundle/sources/cxx-stl/gnu-libstdc++/4.9/include\" \"-I/home/sujoy/Android/Sdk/ndk-bundle/sources/cxx-stl/gnu-libstdc++/4.9/libs/x86/include\" \"-I/home/sujoy/Android/Sdk/ndk-bundle/sources/cxx-stl/gnu-libstdc++/4.9/include/backward\" \"-I/home/sujoy/AndroidStudioProjects/face-detection/openCVSamplefacedetection/src/main/jni\" \"-frtti\" \"-fexceptions\" \"-DANDROID\" \"-fPIC\" \"-DANDROID\" \"-fsigned-char\" \"-D__ANDROID_API__\u003d23\" \"-Wa,--noexecstack\" \"-Wformat\" \"-Werror\u003dformat-security\" \"-mstackrealign\" \"--sysroot\" \"/home/sujoy/Android/Sdk/ndk-bundle/sysroot\" \"-isystem\" \"/home/sujoy/Android/Sdk/ndk-bundle/sysroot/usr/include/i686-linux-android\""
+        }
+      ],
+      "output": "/home/sujoy/AndroidStudioProjects/face-detection/openCVSamplefacedetection/build/intermediates/ndkBuild/release/obj/local/x86/libdetection_based_tracker.so"
+    }
+  },
+  "toolchains": {
+    "toolchain-x86": {
+      "cppCompilerExecutable": "/home/sujoy/Android/Sdk/ndk-bundle/toolchains/llvm/prebuilt/linux-x86_64/bin/clang++"
+    }
+  },
+  "cFileExtensions": [],
+  "cppFileExtensions": [
+    "cpp"
+  ]
+}

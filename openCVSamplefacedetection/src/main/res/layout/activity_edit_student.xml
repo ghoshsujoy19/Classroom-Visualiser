@@ -1,0 +1,101 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools" android:layout_width="match_parent"
+    android:layout_height="match_parent" android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    android:paddingBottom="@dimen/activity_vertical_margin" tools:context=".EditStudentActivity">
+
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/editText_name"
+        android:layout_alignBaseline="@+id/textView"
+        android:layout_alignBottom="@+id/textView"
+        android:layout_alignStart="@+id/button_update" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:text="Name"
+        android:id="@+id/textView"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentStart="true"
+        android:layout_marginTop="27dp" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:text="Surname"
+        android:id="@+id/textView2"
+        android:layout_alignBaseline="@+id/editText_surname"
+        android:layout_alignBottom="@+id/editText_surname"
+        android:layout_alignParentStart="true" />
+
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/editText_surname"
+        android:layout_below="@+id/editText_name"
+        android:layout_alignParentEnd="true"
+        android:layout_marginTop="32dp"
+        android:layout_alignStart="@+id/editText_name" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:text="Roll ID"
+        android:id="@+id/textView_id"
+        android:layout_below="@+id/editText_surname"
+        android:layout_alignParentStart="true"
+        android:layout_marginTop="39dp" />
+
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/editText_id"
+        android:layout_alignBaseline="@+id/textView_id"
+        android:layout_alignBottom="@+id/textView_id"
+        android:layout_alignParentEnd="true"
+        android:layout_alignStart="@+id/editText_surname" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:text="Course"
+        android:id="@+id/textView3"
+        android:layout_below="@+id/editText_id"
+        android:layout_alignParentStart="true"
+        android:layout_marginTop="35dp" />
+
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/editText_Course"
+        android:layout_alignBaseline="@+id/textView3"
+        android:layout_alignBottom="@+id/textView3"
+        android:layout_alignParentEnd="true"
+        android:layout_alignStart="@+id/editText_id" />
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Edit Data"
+        android:layout_marginTop="50dp"
+        android:layout_below="@id/editText_Course"
+        android:id="@+id/button_update"
+        android:layout_centerHorizontal="true" />
+
+    <Button
+        android:id="@+id/ImgButton"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="35dp"
+        android:layout_below="@+id/button_update"
+        android:layout_centerHorizontal="true"
+        android:text="Edit Images" />
+
+</RelativeLayout>

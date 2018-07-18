@@ -1,0 +1,270 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/sujoy/AndroidStudioProjects/face-detection/openCVSamplefacedetection/src/main/AndroidManifest.xml:2:1-61:12
+INJECTED from /home/sujoy/AndroidStudioProjects/face-detection/openCVSamplefacedetection/src/main/AndroidManifest.xml:2:1-61:12
+INJECTED from /home/sujoy/AndroidStudioProjects/face-detection/openCVSamplefacedetection/src/main/AndroidManifest.xml:2:1-61:12
+INJECTED from /home/sujoy/AndroidStudioProjects/face-detection/openCVSamplefacedetection/src/main/AndroidManifest.xml:2:1-61:12
+MERGED from [:openCVLibrary340dev] /home/sujoy/AndroidStudioProjects/face-detection/openCVLibrary340dev/build/intermediates/manifests/full/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:design:26.0.0-beta1] /home/sujoy/.gradle/caches/transforms-1/files-1.1/design-26.0.0-beta1.aar/9a8dce12d414802f96dbf49335293d71/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:appcompat-v7:26.0.0-beta1] /home/sujoy/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.0.0-beta1.aar/e2388f3d27616b0c03d701c30faa981f/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /home/sujoy/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/c64b98aa1b6322e87dd17f7e88a00173/AndroidManifest.xml:2:1-11:12
+MERGED from [com.jakewharton:butterknife:8.8.1] /home/sujoy/.gradle/caches/transforms-1/files-1.1/butterknife-8.8.1.aar/bc493b735d0da3064bc49fc35b2674ad/AndroidManifest.xml:2:1-7:12
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-beta1] /home/sujoy/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.0.0-beta1.aar/cc6c26973dc0185d48eaaf0b3e01de2b/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-vector-drawable:26.0.0-beta1] /home/sujoy/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.0.0-beta1.aar/82609567ef89e1a8046a3dd33e9c8563/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:recyclerview-v7:26.0.0-beta1] /home/sujoy/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-26.0.0-beta1.aar/f3e64a04bd6607bfccd86ab95d0f92cd/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:transition:26.0.0-beta1] /home/sujoy/.gradle/caches/transforms-1/files-1.1/transition-26.0.0-beta1.aar/22fb21494d0c477e41bfa5835e486f1b/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-v4:26.0.0-beta1] /home/sujoy/.gradle/caches/transforms-1/files-1.1/support-v4-26.0.0-beta1.aar/18838c30e8a3561863a3c99fd7ba9354/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-media-compat:26.0.0-beta1] /home/sujoy/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.0.0-beta1.aar/a4479a2216afa0a39e3fcbbfe847dc61/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-fragment:26.0.0-beta1] /home/sujoy/.gradle/caches/transforms-1/files-1.1/support-fragment-26.0.0-beta1.aar/e227fa4ec230e1ea2b26c687b01704ea/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-utils:26.0.0-beta1] /home/sujoy/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.0.0-beta1.aar/a4f68a5fd338f6028c4733449469ba86/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-ui:26.0.0-beta1] /home/sujoy/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.0.0-beta1.aar/6bdcd6e0e5cd254cf42778b53131a792/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-compat:26.0.0-beta1] /home/sujoy/.gradle/caches/transforms-1/files-1.1/support-compat-26.0.0-beta1.aar/5c11268bc0f646cbdbc8d494aaeb31e1/AndroidManifest.xml:17:1-31:12
+INJECTED from /home/sujoy/AndroidStudioProjects/face-detection/openCVSamplefacedetection/src/main/AndroidManifest.xml:2:1-61:12
+INJECTED from /home/sujoy/AndroidStudioProjects/face-detection/openCVSamplefacedetection/src/main/AndroidManifest.xml:2:1-61:12
+INJECTED from /home/sujoy/AndroidStudioProjects/face-detection/openCVSamplefacedetection/src/main/AndroidManifest.xml:2:1-61:12
+	package
+		ADDED from /home/sujoy/AndroidStudioProjects/face-detection/openCVSamplefacedetection/src/main/AndroidManifest.xml:3:5-44
+		INJECTED from /home/sujoy/AndroidStudioProjects/face-detection/openCVSamplefacedetection/src/main/AndroidManifest.xml
+		INJECTED from /home/sujoy/AndroidStudioProjects/face-detection/openCVSamplefacedetection/src/main/AndroidManifest.xml
+	android:versionName
+		ADDED from /home/sujoy/AndroidStudioProjects/face-detection/openCVSamplefacedetection/src/main/AndroidManifest.xml:5:5-31
+		INJECTED from /home/sujoy/AndroidStudioProjects/face-detection/openCVSamplefacedetection/src/main/AndroidManifest.xml
+		INJECTED from /home/sujoy/AndroidStudioProjects/face-detection/openCVSamplefacedetection/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/sujoy/AndroidStudioProjects/face-detection/openCVSamplefacedetection/src/main/AndroidManifest.xml:2:11-69
+	android:versionCode
+		ADDED from /home/sujoy/AndroidStudioProjects/face-detection/openCVSamplefacedetection/src/main/AndroidManifest.xml:4:5-30
+		INJECTED from /home/sujoy/AndroidStudioProjects/face-detection/openCVSamplefacedetection/src/main/AndroidManifest.xml
+		INJECTED from /home/sujoy/AndroidStudioProjects/face-detection/openCVSamplefacedetection/src/main/AndroidManifest.xml
+uses-sdk
+ADDED from /home/sujoy/AndroidStudioProjects/face-detection/openCVSamplefacedetection/src/main/AndroidManifest.xml:7:5-44
+INJECTED from /home/sujoy/AndroidStudioProjects/face-detection/openCVSamplefacedetection/src/main/AndroidManifest.xml:7:5-44
+INJECTED from /home/sujoy/AndroidStudioProjects/face-detection/openCVSamplefacedetection/src/main/AndroidManifest.xml:7:5-44
+MERGED from [:openCVLibrary340dev] /home/sujoy/AndroidStudioProjects/face-detection/openCVLibrary340dev/build/intermediates/manifests/full/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:openCVLibrary340dev] /home/sujoy/AndroidStudioProjects/face-detection/openCVLibrary340dev/build/intermediates/manifests/full/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:design:26.0.0-beta1] /home/sujoy/.gradle/caches/transforms-1/files-1.1/design-26.0.0-beta1.aar/9a8dce12d414802f96dbf49335293d71/AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:design:26.0.0-beta1] /home/sujoy/.gradle/caches/transforms-1/files-1.1/design-26.0.0-beta1.aar/9a8dce12d414802f96dbf49335293d71/AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:appcompat-v7:26.0.0-beta1] /home/sujoy/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.0.0-beta1.aar/e2388f3d27616b0c03d701c30faa981f/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:appcompat-v7:26.0.0-beta1] /home/sujoy/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.0.0-beta1.aar/e2388f3d27616b0c03d701c30faa981f/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /home/sujoy/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/c64b98aa1b6322e87dd17f7e88a00173/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /home/sujoy/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/c64b98aa1b6322e87dd17f7e88a00173/AndroidManifest.xml:5:5-7:41
+MERGED from [com.jakewharton:butterknife:8.8.1] /home/sujoy/.gradle/caches/transforms-1/files-1.1/butterknife-8.8.1.aar/bc493b735d0da3064bc49fc35b2674ad/AndroidManifest.xml:5:5-43
+MERGED from [com.jakewharton:butterknife:8.8.1] /home/sujoy/.gradle/caches/transforms-1/files-1.1/butterknife-8.8.1.aar/bc493b735d0da3064bc49fc35b2674ad/AndroidManifest.xml:5:5-43
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-beta1] /home/sujoy/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.0.0-beta1.aar/cc6c26973dc0185d48eaaf0b3e01de2b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-beta1] /home/sujoy/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.0.0-beta1.aar/cc6c26973dc0185d48eaaf0b3e01de2b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.0.0-beta1] /home/sujoy/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.0.0-beta1.aar/82609567ef89e1a8046a3dd33e9c8563/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.0.0-beta1] /home/sujoy/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.0.0-beta1.aar/82609567ef89e1a8046a3dd33e9c8563/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:26.0.0-beta1] /home/sujoy/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-26.0.0-beta1.aar/f3e64a04bd6607bfccd86ab95d0f92cd/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:26.0.0-beta1] /home/sujoy/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-26.0.0-beta1.aar/f3e64a04bd6607bfccd86ab95d0f92cd/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:26.0.0-beta1] /home/sujoy/.gradle/caches/transforms-1/files-1.1/transition-26.0.0-beta1.aar/22fb21494d0c477e41bfa5835e486f1b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:26.0.0-beta1] /home/sujoy/.gradle/caches/transforms-1/files-1.1/transition-26.0.0-beta1.aar/22fb21494d0c477e41bfa5835e486f1b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:26.0.0-beta1] /home/sujoy/.gradle/caches/transforms-1/files-1.1/support-v4-26.0.0-beta1.aar/18838c30e8a3561863a3c99fd7ba9354/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:26.0.0-beta1] /home/sujoy/.gradle/caches/transforms-1/files-1.1/support-v4-26.0.0-beta1.aar/18838c30e8a3561863a3c99fd7ba9354/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-media-compat:26.0.0-beta1] /home/sujoy/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.0.0-beta1.aar/a4479a2216afa0a39e3fcbbfe847dc61/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:26.0.0-beta1] /home/sujoy/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.0.0-beta1.aar/a4479a2216afa0a39e3fcbbfe847dc61/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-fragment:26.0.0-beta1] /home/sujoy/.gradle/caches/transforms-1/files-1.1/support-fragment-26.0.0-beta1.aar/e227fa4ec230e1ea2b26c687b01704ea/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-fragment:26.0.0-beta1] /home/sujoy/.gradle/caches/transforms-1/files-1.1/support-fragment-26.0.0-beta1.aar/e227fa4ec230e1ea2b26c687b01704ea/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-core-utils:26.0.0-beta1] /home/sujoy/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.0.0-beta1.aar/a4f68a5fd338f6028c4733449469ba86/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-utils:26.0.0-beta1] /home/sujoy/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.0.0-beta1.aar/a4f68a5fd338f6028c4733449469ba86/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-ui:26.0.0-beta1] /home/sujoy/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.0.0-beta1.aar/6bdcd6e0e5cd254cf42778b53131a792/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:26.0.0-beta1] /home/sujoy/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.0.0-beta1.aar/6bdcd6e0e5cd254cf42778b53131a792/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:26.0.0-beta1] /home/sujoy/.gradle/caches/transforms-1/files-1.1/support-compat-26.0.0-beta1.aar/5c11268bc0f646cbdbc8d494aaeb31e1/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:26.0.0-beta1] /home/sujoy/.gradle/caches/transforms-1/files-1.1/support-compat-26.0.0-beta1.aar/5c11268bc0f646cbdbc8d494aaeb31e1/AndroidManifest.xml:21:5-23:58
+INJECTED from /home/sujoy/AndroidStudioProjects/face-detection/openCVSamplefacedetection/src/main/AndroidManifest.xml:7:5-44
+INJECTED from /home/sujoy/AndroidStudioProjects/face-detection/openCVSamplefacedetection/src/main/AndroidManifest.xml:7:5-44
+	tools:overrideLibrary
+		ADDED from [com.android.support:design:26.0.0-beta1] /home/sujoy/.gradle/caches/transforms-1/files-1.1/design-26.0.0-beta1.aar/9a8dce12d414802f96dbf49335293d71/AndroidManifest.xml:23:9-59
+	android:targetSdkVersion
+		INJECTED from /home/sujoy/AndroidStudioProjects/face-detection/openCVSamplefacedetection/src/main/AndroidManifest.xml
+		ADDED from /home/sujoy/AndroidStudioProjects/face-detection/openCVSamplefacedetection/src/main/AndroidManifest.xml:7:5-44
+		INJECTED from /home/sujoy/AndroidStudioProjects/face-detection/openCVSamplefacedetection/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from /home/sujoy/AndroidStudioProjects/face-detection/openCVSamplefacedetection/src/main/AndroidManifest.xml:7:15-41
+		INJECTED from /home/sujoy/AndroidStudioProjects/face-detection/openCVSamplefacedetection/src/main/AndroidManifest.xml
+		INJECTED from /home/sujoy/AndroidStudioProjects/face-detection/openCVSamplefacedetection/src/main/AndroidManifest.xml
+supports-screens
+ADDED from /home/sujoy/AndroidStudioProjects/face-detection/openCVSamplefacedetection/src/main/AndroidManifest.xml:9:5-14:39
+	android:largeScreens
+		ADDED from /home/sujoy/AndroidStudioProjects/face-detection/openCVSamplefacedetection/src/main/AndroidManifest.xml:11:9-36
+	android:smallScreens
+		ADDED from /home/sujoy/AndroidStudioProjects/face-detection/openCVSamplefacedetection/src/main/AndroidManifest.xml:14:9-36
+	android:normalScreens
+		ADDED from /home/sujoy/AndroidStudioProjects/face-detection/openCVSamplefacedetection/src/main/AndroidManifest.xml:12:9-37
+	android:resizeable
+		ADDED from /home/sujoy/AndroidStudioProjects/face-detection/openCVSamplefacedetection/src/main/AndroidManifest.xml:13:9-34
+	android:anyDensity
+		ADDED from /home/sujoy/AndroidStudioProjects/face-detection/openCVSamplefacedetection/src/main/AndroidManifest.xml:10:9-34
+uses-permission#android.permission.CAMERA
+ADDED from /home/sujoy/AndroidStudioProjects/face-detection/openCVSamplefacedetection/src/main/AndroidManifest.xml:16:5-65
+	android:name
+		ADDED from /home/sujoy/AndroidStudioProjects/face-detection/openCVSamplefacedetection/src/main/AndroidManifest.xml:16:22-62
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /home/sujoy/AndroidStudioProjects/face-detection/openCVSamplefacedetection/src/main/AndroidManifest.xml:17:5-81
+	android:name
+		ADDED from /home/sujoy/AndroidStudioProjects/face-detection/openCVSamplefacedetection/src/main/AndroidManifest.xml:17:22-78
+uses-feature#android.hardware.camera2
+ADDED from /home/sujoy/AndroidStudioProjects/face-detection/openCVSamplefacedetection/src/main/AndroidManifest.xml:19:5-21:36
+	android:required
+		ADDED from /home/sujoy/AndroidStudioProjects/face-detection/openCVSamplefacedetection/src/main/AndroidManifest.xml:21:9-33
+	android:name
+		ADDED from /home/sujoy/AndroidStudioProjects/face-detection/openCVSamplefacedetection/src/main/AndroidManifest.xml:20:9-48
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from /home/sujoy/AndroidStudioProjects/face-detection/openCVSamplefacedetection/src/main/AndroidManifest.xml:23:5-75
+	android:name
+		ADDED from /home/sujoy/AndroidStudioProjects/face-detection/openCVSamplefacedetection/src/main/AndroidManifest.xml:23:22-72
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from /home/sujoy/AndroidStudioProjects/face-detection/openCVSamplefacedetection/src/main/AndroidManifest.xml:24:5-80
+	android:name
+		ADDED from /home/sujoy/AndroidStudioProjects/face-detection/openCVSamplefacedetection/src/main/AndroidManifest.xml:24:22-77
+application
+ADDED from /home/sujoy/AndroidStudioProjects/face-detection/openCVSamplefacedetection/src/main/AndroidManifest.xml:26:5-59:19
+MERGED from [com.android.support:design:26.0.0-beta1] /home/sujoy/.gradle/caches/transforms-1/files-1.1/design-26.0.0-beta1.aar/9a8dce12d414802f96dbf49335293d71/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:design:26.0.0-beta1] /home/sujoy/.gradle/caches/transforms-1/files-1.1/design-26.0.0-beta1.aar/9a8dce12d414802f96dbf49335293d71/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:appcompat-v7:26.0.0-beta1] /home/sujoy/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.0.0-beta1.aar/e2388f3d27616b0c03d701c30faa981f/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:appcompat-v7:26.0.0-beta1] /home/sujoy/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.0.0-beta1.aar/e2388f3d27616b0c03d701c30faa981f/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /home/sujoy/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/c64b98aa1b6322e87dd17f7e88a00173/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /home/sujoy/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/c64b98aa1b6322e87dd17f7e88a00173/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-beta1] /home/sujoy/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.0.0-beta1.aar/cc6c26973dc0185d48eaaf0b3e01de2b/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-beta1] /home/sujoy/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.0.0-beta1.aar/cc6c26973dc0185d48eaaf0b3e01de2b/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-vector-drawable:26.0.0-beta1] /home/sujoy/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.0.0-beta1.aar/82609567ef89e1a8046a3dd33e9c8563/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-vector-drawable:26.0.0-beta1] /home/sujoy/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.0.0-beta1.aar/82609567ef89e1a8046a3dd33e9c8563/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:recyclerview-v7:26.0.0-beta1] /home/sujoy/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-26.0.0-beta1.aar/f3e64a04bd6607bfccd86ab95d0f92cd/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:recyclerview-v7:26.0.0-beta1] /home/sujoy/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-26.0.0-beta1.aar/f3e64a04bd6607bfccd86ab95d0f92cd/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:transition:26.0.0-beta1] /home/sujoy/.gradle/caches/transforms-1/files-1.1/transition-26.0.0-beta1.aar/22fb21494d0c477e41bfa5835e486f1b/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:transition:26.0.0-beta1] /home/sujoy/.gradle/caches/transforms-1/files-1.1/transition-26.0.0-beta1.aar/22fb21494d0c477e41bfa5835e486f1b/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-v4:26.0.0-beta1] /home/sujoy/.gradle/caches/transforms-1/files-1.1/support-v4-26.0.0-beta1.aar/18838c30e8a3561863a3c99fd7ba9354/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-v4:26.0.0-beta1] /home/sujoy/.gradle/caches/transforms-1/files-1.1/support-v4-26.0.0-beta1.aar/18838c30e8a3561863a3c99fd7ba9354/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.0.0-beta1] /home/sujoy/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.0.0-beta1.aar/a4479a2216afa0a39e3fcbbfe847dc61/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.0.0-beta1] /home/sujoy/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.0.0-beta1.aar/a4479a2216afa0a39e3fcbbfe847dc61/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:26.0.0-beta1] /home/sujoy/.gradle/caches/transforms-1/files-1.1/support-fragment-26.0.0-beta1.aar/e227fa4ec230e1ea2b26c687b01704ea/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:26.0.0-beta1] /home/sujoy/.gradle/caches/transforms-1/files-1.1/support-fragment-26.0.0-beta1.aar/e227fa4ec230e1ea2b26c687b01704ea/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:26.0.0-beta1] /home/sujoy/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.0.0-beta1.aar/a4f68a5fd338f6028c4733449469ba86/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:26.0.0-beta1] /home/sujoy/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.0.0-beta1.aar/a4f68a5fd338f6028c4733449469ba86/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-ui:26.0.0-beta1] /home/sujoy/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.0.0-beta1.aar/6bdcd6e0e5cd254cf42778b53131a792/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-ui:26.0.0-beta1] /home/sujoy/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.0.0-beta1.aar/6bdcd6e0e5cd254cf42778b53131a792/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:26.0.0-beta1] /home/sujoy/.gradle/caches/transforms-1/files-1.1/support-compat-26.0.0-beta1.aar/5c11268bc0f646cbdbc8d494aaeb31e1/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:26.0.0-beta1] /home/sujoy/.gradle/caches/transforms-1/files-1.1/support-compat-26.0.0-beta1.aar/5c11268bc0f646cbdbc8d494aaeb31e1/AndroidManifest.xml:25:5-29:19
+	android:supportsRtl
+		ADDED from /home/sujoy/AndroidStudioProjects/face-detection/openCVSamplefacedetection/src/main/AndroidManifest.xml:30:9-35
+	android:label
+		ADDED from /home/sujoy/AndroidStudioProjects/face-detection/openCVSamplefacedetection/src/main/AndroidManifest.xml:29:9-41
+	android:icon
+		ADDED from /home/sujoy/AndroidStudioProjects/face-detection/openCVSamplefacedetection/src/main/AndroidManifest.xml:28:9-38
+	android:allowBackup
+		ADDED from /home/sujoy/AndroidStudioProjects/face-detection/openCVSamplefacedetection/src/main/AndroidManifest.xml:27:9-35
+	android:theme
+		ADDED from /home/sujoy/AndroidStudioProjects/face-detection/openCVSamplefacedetection/src/main/AndroidManifest.xml:31:9-40
+activity#org.opencv.samples.facedetect.LoginActivity1
+ADDED from /home/sujoy/AndroidStudioProjects/face-detection/openCVSamplefacedetection/src/main/AndroidManifest.xml:32:9-40:20
+	android:label
+		ADDED from /home/sujoy/AndroidStudioProjects/face-detection/openCVSamplefacedetection/src/main/AndroidManifest.xml:34:13-45
+	android:name
+		ADDED from /home/sujoy/AndroidStudioProjects/face-detection/openCVSamplefacedetection/src/main/AndroidManifest.xml:33:13-43
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /home/sujoy/AndroidStudioProjects/face-detection/openCVSamplefacedetection/src/main/AndroidManifest.xml:35:13-39:29
+action#android.intent.action.MAIN
+ADDED from /home/sujoy/AndroidStudioProjects/face-detection/openCVSamplefacedetection/src/main/AndroidManifest.xml:36:17-69
+	android:name
+		ADDED from /home/sujoy/AndroidStudioProjects/face-detection/openCVSamplefacedetection/src/main/AndroidManifest.xml:36:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/sujoy/AndroidStudioProjects/face-detection/openCVSamplefacedetection/src/main/AndroidManifest.xml:38:17-77
+	android:name
+		ADDED from /home/sujoy/AndroidStudioProjects/face-detection/openCVSamplefacedetection/src/main/AndroidManifest.xml:38:27-74
+activity#org.opencv.samples.facedetect.MenuActivity
+ADDED from /home/sujoy/AndroidStudioProjects/face-detection/openCVSamplefacedetection/src/main/AndroidManifest.xml:41:9-50
+	android:name
+		ADDED from /home/sujoy/AndroidStudioProjects/face-detection/openCVSamplefacedetection/src/main/AndroidManifest.xml:41:19-47
+activity#org.opencv.samples.facedetect.SignupActivity
+ADDED from /home/sujoy/AndroidStudioProjects/face-detection/openCVSamplefacedetection/src/main/AndroidManifest.xml:42:9-75
+	android:label
+		ADDED from /home/sujoy/AndroidStudioProjects/face-detection/openCVSamplefacedetection/src/main/AndroidManifest.xml:42:50-73
+	android:name
+		ADDED from /home/sujoy/AndroidStudioProjects/face-detection/openCVSamplefacedetection/src/main/AndroidManifest.xml:42:19-49
+activity#org.opencv.samples.facedetect.RegisterActivity
+ADDED from /home/sujoy/AndroidStudioProjects/face-detection/openCVSamplefacedetection/src/main/AndroidManifest.xml:43:9-54
+	android:name
+		ADDED from /home/sujoy/AndroidStudioProjects/face-detection/openCVSamplefacedetection/src/main/AndroidManifest.xml:43:19-51
+activity#org.opencv.samples.facedetect.FdActivity
+ADDED from /home/sujoy/AndroidStudioProjects/face-detection/openCVSamplefacedetection/src/main/AndroidManifest.xml:44:9-46:53
+	android:screenOrientation
+		ADDED from /home/sujoy/AndroidStudioProjects/face-detection/openCVSamplefacedetection/src/main/AndroidManifest.xml:46:13-50
+	android:name
+		ADDED from /home/sujoy/AndroidStudioProjects/face-detection/openCVSamplefacedetection/src/main/AndroidManifest.xml:45:13-39
+activity#org.opencv.samples.facedetect.AddStudentActivity
+ADDED from /home/sujoy/AndroidStudioProjects/face-detection/openCVSamplefacedetection/src/main/AndroidManifest.xml:47:9-83
+	android:label
+		ADDED from /home/sujoy/AndroidStudioProjects/face-detection/openCVSamplefacedetection/src/main/AndroidManifest.xml:47:54-81
+	android:name
+		ADDED from /home/sujoy/AndroidStudioProjects/face-detection/openCVSamplefacedetection/src/main/AndroidManifest.xml:47:19-53
+activity#org.opencv.samples.facedetect.EditStudentActivity
+ADDED from /home/sujoy/AndroidStudioProjects/face-detection/openCVSamplefacedetection/src/main/AndroidManifest.xml:48:9-85
+	android:label
+		ADDED from /home/sujoy/AndroidStudioProjects/face-detection/openCVSamplefacedetection/src/main/AndroidManifest.xml:48:55-83
+	android:name
+		ADDED from /home/sujoy/AndroidStudioProjects/face-detection/openCVSamplefacedetection/src/main/AndroidManifest.xml:48:19-54
+activity#org.opencv.samples.facedetect.DeleteStudentActivity
+ADDED from /home/sujoy/AndroidStudioProjects/face-detection/openCVSamplefacedetection/src/main/AndroidManifest.xml:49:9-89
+	android:label
+		ADDED from /home/sujoy/AndroidStudioProjects/face-detection/openCVSamplefacedetection/src/main/AndroidManifest.xml:49:57-87
+	android:name
+		ADDED from /home/sujoy/AndroidStudioProjects/face-detection/openCVSamplefacedetection/src/main/AndroidManifest.xml:49:19-56
+activity#org.opencv.samples.facedetect.DisplayImageActivity
+ADDED from /home/sujoy/AndroidStudioProjects/face-detection/openCVSamplefacedetection/src/main/AndroidManifest.xml:50:9-87
+	android:label
+		ADDED from /home/sujoy/AndroidStudioProjects/face-detection/openCVSamplefacedetection/src/main/AndroidManifest.xml:50:56-85
+	android:name
+		ADDED from /home/sujoy/AndroidStudioProjects/face-detection/openCVSamplefacedetection/src/main/AndroidManifest.xml:50:19-55
+activity#org.opencv.samples.facedetect.AddImages
+ADDED from /home/sujoy/AndroidStudioProjects/face-detection/openCVSamplefacedetection/src/main/AndroidManifest.xml:51:9-73
+	android:label
+		ADDED from /home/sujoy/AndroidStudioProjects/face-detection/openCVSamplefacedetection/src/main/AndroidManifest.xml:51:45-71
+	android:name
+		ADDED from /home/sujoy/AndroidStudioProjects/face-detection/openCVSamplefacedetection/src/main/AndroidManifest.xml:51:19-44
+activity#org.opencv.samples.facedetect.CameraSession
+ADDED from /home/sujoy/AndroidStudioProjects/face-detection/openCVSamplefacedetection/src/main/AndroidManifest.xml:52:9-80
+	android:label
+		ADDED from /home/sujoy/AndroidStudioProjects/face-detection/openCVSamplefacedetection/src/main/AndroidManifest.xml:52:49-78
+	android:name
+		ADDED from /home/sujoy/AndroidStudioProjects/face-detection/openCVSamplefacedetection/src/main/AndroidManifest.xml:52:19-48
+activity#org.opencv.samples.facedetect.MainActivity
+ADDED from /home/sujoy/AndroidStudioProjects/face-detection/openCVSamplefacedetection/src/main/AndroidManifest.xml:53:9-56:59
+	android:label
+		ADDED from /home/sujoy/AndroidStudioProjects/face-detection/openCVSamplefacedetection/src/main/AndroidManifest.xml:55:13-42
+	android:theme
+		ADDED from /home/sujoy/AndroidStudioProjects/face-detection/openCVSamplefacedetection/src/main/AndroidManifest.xml:56:13-56
+	android:name
+		ADDED from /home/sujoy/AndroidStudioProjects/face-detection/openCVSamplefacedetection/src/main/AndroidManifest.xml:54:13-41
+activity#org.opencv.samples.facedetect.ViewStudentActivity
+ADDED from /home/sujoy/AndroidStudioProjects/face-detection/openCVSamplefacedetection/src/main/AndroidManifest.xml:57:9-58:45
+	android:label
+		ADDED from /home/sujoy/AndroidStudioProjects/face-detection/openCVSamplefacedetection/src/main/AndroidManifest.xml:58:13-42
+	android:name
+		ADDED from /home/sujoy/AndroidStudioProjects/face-detection/openCVSamplefacedetection/src/main/AndroidManifest.xml:57:19-54
+meta-data#android.support.VERSION
+ADDED from [com.android.support:design:26.0.0-beta1] /home/sujoy/.gradle/caches/transforms-1/files-1.1/design-26.0.0-beta1.aar/9a8dce12d414802f96dbf49335293d71/AndroidManifest.xml:26:9-28:44
+MERGED from [com.android.support:appcompat-v7:26.0.0-beta1] /home/sujoy/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.0.0-beta1.aar/e2388f3d27616b0c03d701c30faa981f/AndroidManifest.xml:26:9-28:44
+MERGED from [com.android.support:appcompat-v7:26.0.0-beta1] /home/sujoy/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.0.0-beta1.aar/e2388f3d27616b0c03d701c30faa981f/AndroidManifest.xml:26:9-28:44
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-beta1] /home/sujoy/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.0.0-beta1.aar/cc6c26973dc0185d48eaaf0b3e01de2b/AndroidManifest.xml:23:9-25:44
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-beta1] /home/sujoy/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.0.0-beta1.aar/cc6c26973dc0185d48eaaf0b3e01de2b/AndroidManifest.xml:23:9-25:44
+MERGED from [com.android.support:support-vector-drawable:26.0.0-beta1] /home/sujoy/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.0.0-beta1.aar/82609567ef89e1a8046a3dd33e9c8563/AndroidManifest.xml:23:9-25:44
+MERGED from [com.android.support:support-vector-drawable:26.0.0-beta1] /home/sujoy/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.0.0-beta1.aar/82609567ef89e1a8046a3dd33e9c8563/AndroidManifest.xml:23:9-25:44
+MERGED from [com.android.support:recyclerview-v7:26.0.0-beta1] /home/sujoy/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-26.0.0-beta1.aar/f3e64a04bd6607bfccd86ab95d0f92cd/AndroidManifest.xml:23:9-25:44
+MERGED from [com.android.support:recyclerview-v7:26.0.0-beta1] /home/sujoy/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-26.0.0-beta1.aar/f3e64a04bd6607bfccd86ab95d0f92cd/AndroidManifest.xml:23:9-25:44
+MERGED from [com.android.support:transition:26.0.0-beta1] /home/sujoy/.gradle/caches/transforms-1/files-1.1/transition-26.0.0-beta1.aar/22fb21494d0c477e41bfa5835e486f1b/AndroidManifest.xml:23:9-25:44
+MERGED from [com.android.support:transition:26.0.0-beta1] /home/sujoy/.gradle/caches/transforms-1/files-1.1/transition-26.0.0-beta1.aar/22fb21494d0c477e41bfa5835e486f1b/AndroidManifest.xml:23:9-25:44
+MERGED from [com.android.support:support-v4:26.0.0-beta1] /home/sujoy/.gradle/caches/transforms-1/files-1.1/support-v4-26.0.0-beta1.aar/18838c30e8a3561863a3c99fd7ba9354/AndroidManifest.xml:26:9-28:44
+MERGED from [com.android.support:support-v4:26.0.0-beta1] /home/sujoy/.gradle/caches/transforms-1/files-1.1/support-v4-26.0.0-beta1.aar/18838c30e8a3561863a3c99fd7ba9354/AndroidManifest.xml:26:9-28:44
+MERGED from [com.android.support:support-media-compat:26.0.0-beta1] /home/sujoy/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.0.0-beta1.aar/a4479a2216afa0a39e3fcbbfe847dc61/AndroidManifest.xml:26:9-28:44
+MERGED from [com.android.support:support-media-compat:26.0.0-beta1] /home/sujoy/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.0.0-beta1.aar/a4479a2216afa0a39e3fcbbfe847dc61/AndroidManifest.xml:26:9-28:44
+MERGED from [com.android.support:support-fragment:26.0.0-beta1] /home/sujoy/.gradle/caches/transforms-1/files-1.1/support-fragment-26.0.0-beta1.aar/e227fa4ec230e1ea2b26c687b01704ea/AndroidManifest.xml:26:9-28:44
+MERGED from [com.android.support:support-fragment:26.0.0-beta1] /home/sujoy/.gradle/caches/transforms-1/files-1.1/support-fragment-26.0.0-beta1.aar/e227fa4ec230e1ea2b26c687b01704ea/AndroidManifest.xml:26:9-28:44
+MERGED from [com.android.support:support-core-utils:26.0.0-beta1] /home/sujoy/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.0.0-beta1.aar/a4f68a5fd338f6028c4733449469ba86/AndroidManifest.xml:26:9-28:44
+MERGED from [com.android.support:support-core-utils:26.0.0-beta1] /home/sujoy/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.0.0-beta1.aar/a4f68a5fd338f6028c4733449469ba86/AndroidManifest.xml:26:9-28:44
+MERGED from [com.android.support:support-core-ui:26.0.0-beta1] /home/sujoy/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.0.0-beta1.aar/6bdcd6e0e5cd254cf42778b53131a792/AndroidManifest.xml:26:9-28:44
+MERGED from [com.android.support:support-core-ui:26.0.0-beta1] /home/sujoy/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.0.0-beta1.aar/6bdcd6e0e5cd254cf42778b53131a792/AndroidManifest.xml:26:9-28:44
+MERGED from [com.android.support:support-compat:26.0.0-beta1] /home/sujoy/.gradle/caches/transforms-1/files-1.1/support-compat-26.0.0-beta1.aar/5c11268bc0f646cbdbc8d494aaeb31e1/AndroidManifest.xml:26:9-28:44
+MERGED from [com.android.support:support-compat:26.0.0-beta1] /home/sujoy/.gradle/caches/transforms-1/files-1.1/support-compat-26.0.0-beta1.aar/5c11268bc0f646cbdbc8d494aaeb31e1/AndroidManifest.xml:26:9-28:44
+	android:value
+		ADDED from [com.android.support:design:26.0.0-beta1] /home/sujoy/.gradle/caches/transforms-1/files-1.1/design-26.0.0-beta1.aar/9a8dce12d414802f96dbf49335293d71/AndroidManifest.xml:28:13-41
+	android:name
+		ADDED from [com.android.support:design:26.0.0-beta1] /home/sujoy/.gradle/caches/transforms-1/files-1.1/design-26.0.0-beta1.aar/9a8dce12d414802f96dbf49335293d71/AndroidManifest.xml:27:13-51

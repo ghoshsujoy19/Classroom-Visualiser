@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">Classroom Visualiser</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings related to login -->
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password (optional)</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="error_invalid_email">This email address is invalid</string>
+    <string name="error_invalid_password">This password is too short</string>
+    <string name="error_incorrect_password">This password is incorrect</string>
+    <string name="error_field_required">This field is required</string>
+    <string name="permission_rationale">"Contacts permissions are needed for providing email
+        completions."
+    </string>
+    <string name="Add_New">Add New</string>
+    <string name="edit">Edit Contact</string>
+    <string name="delete">Delete Contact</string>
+    <string name="title_activity_display_contact">DisplayContact</string>
+    <string name="name">Name</string>
+    <string name="phone">Phone</string>
+    <string name="email">Email</string>
+    <string name="street">Street</string>
+    <string name="country">City/State/Zip</string>
+    <string name="save">Save Contact</string>
+    <string name="deleteContact">Are you sure, you want to delete it.</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="title_activity_main">Dashboard</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+</resources>
